@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hosseinkamyab.github.io/al-folio/sitemap.xml
+Sitemap: https://hosseinkamyab.github.io/sitemap.xml
