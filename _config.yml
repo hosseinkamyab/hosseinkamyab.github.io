@@ -248,8 +248,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  -_pages/projects.md
-  -_pages/publications.md
+  - _pages/projects.md
+  - _pages/publications.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -270,7 +270,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
-  - jekyll-twitter-plugin
+  #- jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
