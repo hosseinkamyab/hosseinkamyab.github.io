@@ -15,6 +15,12 @@ selected_papers: true
 social: true
 
 ---
+<style>
+/* Inline CSS to justify text on this page */
+.justified-text {
+  text-align: justify;
+}
+</style>
 
 {:.justified-text}
 
