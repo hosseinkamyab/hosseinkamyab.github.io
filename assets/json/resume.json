@@ -2,8 +2,9 @@
   "basics": {
     "name": "Hossein Kamyab",
     "label": "Computational Designer",
-    "image": "",
-    "email": "hosseinkamyab96@gmail.com",
+    "image": "assets/img/profile.jpg",
+    "personal email": "hosseinkamyab96@gmail.com",
+    "official email":"hosseinkamyab@modares.ac,ir",
     "phone": "+98 (917) 690-5977",
     "summary": "",
     "location": {
@@ -74,8 +75,8 @@
       "name": "Farahbakhsh Vocational High school",
       "location": "Tehran ,Iran",
       "Courses": "Architectural Design , Architectural drafting, AutoCAD for architects, construction Details",
-      "startDate": "2022",
-      "endDate": "2023"
+      "startDate": "2021",
+      "endDate": "2022"
     },
     {
       "name": "Allameh khafri Vocational High school",
@@ -105,7 +106,7 @@
     },
     {
       "name": "Industrial Architecture Of Iran",
-      "publisher": " farajolahi publication",
+      "publisher": " Farajolahi Publication",
       "releaseDate": "2021",
       "url": "",
       "summary": ""

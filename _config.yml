@@ -216,6 +216,7 @@ latest_posts:
 markdown: kramdown
 highlighter: rouge
 kramdown:
+  parse_block_html: true
   input: GFM
   syntax_highlighter_opts:
     css_class: "highlight"
@@ -227,6 +228,7 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages"]
+
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -247,7 +249,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  # - _pages/projects.md
+  - _pages/projects.md
   - _pages/publications.md
 keep_files:
   - CNAME
