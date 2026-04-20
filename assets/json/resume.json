@@ -51,6 +51,13 @@
   ],
   "academic_experience": [
     {
+      "name": "Moalem Technical High school",
+      "location": "Shiraz ,Iran",
+      "Courses": "Web development (HTML, CSS, JavaScript), Linux, AutoCAD",
+      "startDate": "2025",
+      "endDate": ""
+    },
+    {
       "name": "Kharazmi Vocational High school",
       "location": "Shiraz ,Iran",
       "Courses": "Architectural drafting, AutoCAD for architects, construction",
@@ -118,15 +125,15 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python"
+        "Python, Javascript"
       ]
     },
     {
-      "name": "Neural Networks:",
+      "name": "Machine Learning & Deep Learning:",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs"
+        "Artificial Neural Networks (ANNs) ,Convolutional Neural Networks (CNNs) ,Diffusion Models ,Reinforcement Learning (RL)"
       ]
     },
     {
@@ -175,6 +182,13 @@
     }
   ],
   "awards": [
+        {
+      "title": "Addimsion offer for Doctor of Design ",
+      "date": "2025",
+      "awarder": " Louisiana State University, College of Art & Design",
+      "url": "",
+      "summary": "Deferred to Summer 2026 (originally Fall 2025, due to U.S. travel ban)"
+    },
     {
       "title": "Addimsion offer with a 20,000$ scholarship for M.S in architecture",
       "date": "2024",
